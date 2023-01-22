@@ -52,7 +52,7 @@ export const data = [
       total: 175.25,
       status: 'On Hold',
       method: 'PayPal',
-      date: '2 Hour ago',
+      date: '2 Hours ago',
     },
     {
       id: 6,
@@ -63,7 +63,7 @@ export const data = [
       total: 1295.75,
       status: 'Completed',
       method: 'Check',
-      date: '3 Hour ago',
+      date: '3 Hours ago',
     },
     {
       id: 7,
@@ -74,7 +74,7 @@ export const data = [
       total: 89.95,
       status: 'Completed',
       method: 'MasterCard',
-      date: '3 Hour ago',
+      date: '3 Hours ago',
     },
     {
       id: 8,
@@ -85,7 +85,7 @@ export const data = [
       total: 689.45,
       status: 'Completed',
       method: 'Visa',
-      date: '7 Hour ago',
+      date: '7 Hours ago',
     },
     {
       id: 9,
